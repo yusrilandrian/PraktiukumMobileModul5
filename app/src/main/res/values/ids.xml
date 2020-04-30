@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="vsKaki" type="id" />
+    <item name="vsJudul" type="id" />
+    <item name="JudulHeader" type="id" />
+    <item name="TulisanKaki" type="id" />
+    <item name="Tombol_Home" type="id" />
+    <item name="Tombol_Tentang" type="id" />
+    <item name="tombolSPBU" type="id" />
+</resources>
